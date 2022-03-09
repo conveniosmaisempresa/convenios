@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <title>Lista de Convênios</title>
+</head>
+<body>
+  <main class="p-4">
+    <section>
+      <div class="input-group mb-3">
+        <input 
+          id="filtro"
+          type="text" 
+          class="form-control" 
+          placeholder="Buscar por nome, telefone ou motorista responsável pelo convênio" 
+          aria-label="Buscar por nome, telefone ou motorista responsável pelo convênio" 
+          aria-describedby="buscar"
+        >
+        <button class="btn btn-primary" type="button" id="buscar">Buscar</button>
+      </div>
+    </section>
+    <section>
+      <div class="table-responsive">
+        <table id="convenios" class="table table-striped table-hover">
+          <thead>
+            <tr>
+              <th scope="col">Local</th>
+              <th scope="col">Nome</th>
+              <th scope="col">Endereço</th>
+              <th scope="col">Telefone</th>
+              <th scope="col">Pix</th>
+              <th scope="col">PicPay</th>
+              <th scope="col">Incentivo</th>
+              <th scope="col">MRC</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="7" class="fs-4 text text-center">Carregando registros</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>  
+    </section>
+  </main>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
