@@ -1,34 +1,4 @@
 [
-{
-    "local": "ACQUA PARK",
-    "nome": "Rony",
-    "endereco": "KM 7 Estrada Manso",
-    "telefone": "(65) 99260-8905",
-    "pix": "050.924.241-33",
-    "picpay": "",
-    "incentivo": "10%",
-    "motoristaResponsavelConvenio": "Mauro"
-  }, 
-{
-    "local": "BANCO DO BRASIL AV. CPA",
-    "nome": "Adiceu",
-    "endereco": "Av. Rubens de Mendonça",
-    "telefone": "(65) 98455-7059",
-    "pix": "",
-    "picpay": "https://picpay.me/adiceu.duarte",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Vando"
-  },
- {
-    "local": "CAAS",
-    "nome": "Helton / Elaine",
-    "endereco": "Alvorada",
-    "telefone": "(65) 99670-4300",
-    "pix": "",
-    "picpay": "https://picpay.me/casadeapoio",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Mauro"
-  },
   {
     "local": "CAIXA ECONOMICA F.C",
     "nome": "Amanda",
@@ -59,16 +29,6 @@
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Porfirio"
   },
- {
-    "local": "CASA DE APOIO JUINA",
-    "nome": "Roberto",
-    "endereco": "Poção",
-    "telefone": "(65) 98468-0627",
-    "pix": "",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Lucas"
-  },
   {
     "local": "CASA DE APOIO N. SENH APARECIDA",
     "nome": "Jhomerson",
@@ -88,16 +48,6 @@
     "picpay": "https://picpay.me/luizfernandodeoliveirasampaio",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Luiz"
-  },
-  {
-    "local": "CEM",
-    "nome": "Bento",
-    "endereco": "Av. Getulio Vargas",
-    "telefone": "(065) 99285-2836",
-    "pix": "",
-    "picpay": "https://picpay.me/maurodovale",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Mauro"
   },
  {
     "local": "CLINEMAT",
@@ -130,26 +80,6 @@
     "motoristaResponsavelConvenio": "Marcelo"
   },
   {
-    "local": "CLINPREV",
-    "nome": "Suellen",
-    "endereco": "Av. General Valle",
-    "telefone": "(65) 99684-8591",
-    "pix": "",
-    "picpay": "https://picpay.me/suellen.lica",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Porfirio"
-  },
-  {
-    "local": "CLINPREV OTICA PRIVER",
-    "nome": "Willer",
-    "endereco": "Av. General Valle",
-    "telefone": "(65) 98479-1873",
-    "pix": "079.286.491-36",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Porfirio"
-  },
-  {
     "local": "CRIDAC",
     "nome": "Ronildo",
     "endereco": "Centro Politico",
@@ -158,16 +88,6 @@
     "picpay": "https://picpay.me/ronildo.moraes",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Eduardo(Dudu)"
-  },
-  {
-    "local": "DELCAS HOTEL",
-    "nome": "Wilson",
-    "endereco": "Boa Esperança",
-    "telefone": "(65) 99932-1733",
-    "pix": "",
-    "picpay": "https://picpay.me/wilson.nascimento25",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Mauro"
   },
   {
     "local": "DELCAS HOTEL",
@@ -250,26 +170,6 @@
     "motoristaResponsavelConvenio": "Mauro"
   },
   {
-    "local": "HOSPITAL BENTO (ANTIGO SOTRAUMA)",
-    "nome": "Maike",
-    "endereco": "Av. Dom aquino",
-    "telefone": "(65) 98408-0989",
-    "pix": "65984080989",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Vando"
-  },
-  {
-    "local": "HOSPITAL BENTO (ANTIGO SOTRAUMA)",
-    "nome": "Leony",
-    "endereco": "Av. Dom aquino",
-    "telefone": "(65) 99340-6335",
-    "pix": "029.489.611-22",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Vando"
-  },
-  {
     "local": "HOSPITAL DO CANCER",
     "nome": "Dona Darci",
     "endereco": "Av. Rubens de Mendonça",
@@ -278,26 +178,6 @@
     "picpay": "https://picpay.me/darci.goncalves4",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Givanildo"
-  },
-  {
-    "local": "HOSPITAL DO CANCER",
-    "nome": "Carlos",
-    "endereco": "Av. Rubens de Mendonça",
-    "telefone": "(65) 98445-0658",
-    "pix": "004.324.011-99",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Mauro"
-  },
-  {
-    "local": "HOSPITAL DO CANCER",
-    "nome": "Raphael",
-    "endereco": "Av. Rubens de Mendonça",
-    "telefone": "(65) 99224-8519",
-    "pix": "046.611.631-41",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Mauro"
   },
   {
     "local": "HOSPITAL GERAL",
@@ -309,16 +189,6 @@
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
   },
- {
-    "local": "HOSPITAL GERAL",
-    "nome": "Benedito",
-    "endereco": "Av. Treze de Junho",
-    "telefone": "(65) 99614-5783",
-    "pix": "615.557.621-15",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Junior"
-  },
   {
     "local": "HOSPITAL SANTA HELENA",
     "nome": "Alex",
@@ -328,16 +198,6 @@
     "picpay": "https://picpay.me/alex.pereira.santos8",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Eduardo(Dudu)"
-  },
-  {
-    "local": "HOSPITAL SANTA HELENA",
-    "nome": "Odair",
-    "endereco": "Santa Helena",
-    "telefone": "(65) 99642-3017",
-    "pix": "104.275.461-68",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Mauro"
   },
   {
     "local": "HOSPITAL SANTA HELENA",
@@ -370,16 +230,6 @@
     "motoristaResponsavelConvenio": "Marcelo"
   },
   {
-    "local": "HOSPITAL SANTA ROSA",
-    "nome": "Bruno",
-    "endereco": "Jardim Mariana",
-    "telefone": "(65) 99926-6698",
-    "pix": "",
-    "picpay": "https://picpay.me/einovesete",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Paulinho"
-  },
-  {
     "local": "HOSPITAL SÃO MATEUS",
     "nome": "Jean",
     "endereco": "Jardim Aclimacao",
@@ -398,16 +248,6 @@
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Fabiano"
-  },
-  {
-    "local": "HOTEL ADVANCED FLAT",
-    "nome": "Diego",
-    "endereco": "Av. Miguel Sutil",
-    "telefone": "(65) 98110-1750",
-    "pix": "021.711.421-03",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Felipe"
   },
   {
     "local": "HOTEL ALMANARA",
@@ -470,96 +310,6 @@
     "motoristaResponsavelConvenio": "Edinei"
   },
   {
-    "local": "HOTEL D'LUCA",
-    "nome": "Camila",
-    "endereco": "Araes",
-    "telefone": "(65) 99805-8329",
-    "pix": "046.432.811-03",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
-    "local": "HOTEL D'LUCA",
-    "nome": "Aline",
-    "endereco": "Araes",
-    "telefone": "(65) 99805-8329",
-    "pix": "043.288.271-54",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
-    "local": "HOTEL D'LUCA",
-    "nome": "Ana Claudia",
-    "endereco": "Araes",
-    "telefone": "(65) 99805-8329",
-    "pix": "65999523480",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
-    "local": "HOTEL D'LUCA",
-    "nome": "Ana Cecilia",
-    "endereco": "Araes",
-    "telefone": "(65) 99805-8329",
-    "pix": "65996347372",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
-    "local": "HOTEL D'LUCA",
-    "nome": "Lais Freitas",
-    "endereco": "Araes",
-    "telefone": "(65) 99805-8329",
-    "pix": "65992785232",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-   {
-    "local": "HOTEL D'LUCA",
-    "nome": "Lais Medina",
-    "endereco": "Araes",
-    "telefone": "(65) 99805-8329",
-    "pix": "431.674.298-10",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
-    "local": "HOTEL D'LUCA",
-    "nome": "Tamyres",
-    "endereco": "Araes",
-    "telefone": "(65) 99805-8329",
-    "pix": "023.315.541-45",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-    {
-    "local": "HOTEL DEVILLE PRIME",
-    "nome": "Eliezer",
-    "endereco": "Av. Isaac Povoas",
-    "telefone": "(65) 99335-9933",
-    "pix": "6599335-9933",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "João"
-  },
-     {
-    "local": "HOTEL DEVILLE PRIME",
-    "nome": "Luiz Fernando",
-    "endereco": "Av. Isaac Povoas",
-    "telefone": "(65) 99335-5046",
-    "pix": "6599335-5046",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "João"
-  },
-  {
     "local": "HOTEL ESTILO",
     "nome": "Rosangela",
     "endereco": "Vista Alegre",
@@ -568,16 +318,6 @@
     "picpay": "https://picpay.me/rosangela.rosa235",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Mauro"
-  },
-  {
-    "local": "HOTEL EXPRESS",
-    "nome": "Ricardo",
-    "endereco": "Aeroporto VG",
-    "telefone": "(65) 99225-1115",
-    "pix": "65992251115",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Vando"
   },
   {
     "local": "HOTEL LOS ANGELES",
@@ -601,16 +341,6 @@
   },
   {
     "local": "HOTEL LOS ANGELES",
-    "nome": "Paulo",
-    "endereco": "Alvorada",
-    "telefone": "(65) 98402-3845",
-    "pix": "",
-    "picpay": "https://picpay.me/paulo.reall",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Fabio"
-  },
-  {
-    "local": "HOTEL LOS ANGELES",
     "nome": "Rodenil",
     "endereco": "Alvorada",
     "telefone": "(65) 98117-8747",
@@ -628,46 +358,6 @@
     "picpay": "",
     "incentivo": "R$ 3,00 / R$ 5,00",
     "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
-    "local": "HOTEL MATO GROSSO PALACE",
-    "nome": "Aline",
-    "endereco": "Centro",
-    "telefone": "(65) 98155-6685 ",
-    "pix": "65996240818",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
-    "local": "HOTEL MATO GROSSO PALACE",
-    "nome": "Luiz Guilherme",
-    "endereco": "Centro",
-    "telefone": "(65) 99309-9020",
-    "pix": "65993099020",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-   {
-    "local": "HOTEL FAZENDA MATO GROSSO",
-    "nome": "Elcy",
-    "endereco": "Centro",
-    "telefone": "(65) 99217-3690",
-    "pix": "65992173690",
-    "picpay": "",
-    "incentivo": "R$ 3,00 / R$ 5,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
-    "local": "HOTEL MODELO",
-    "nome": "Sidney",
-    "endereco": "Alvorada",
-    "telefone": "(65) 98435-7926",
-    "pix": "",
-    "picpay": "https://picpay.me/porfiriocomfort",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Porfirio"
   },
   {
     "local": "HOTEL NACIONAL",
@@ -721,16 +411,6 @@
   },
   {
     "local": "HOTEL NACIONAL INN",
-    "nome": "Jhonatan",
-    "endereco": "Av. Fernando Correia",
-    "telefone": "(65) 3616-3500",
-    "pix": "65996922037",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Marcelo"
-  },
-  {
-    "local": "HOTEL NACIONAL INN",
     "nome": "Rafaelly",
     "endereco": "Av. Fernando Correia",
     "telefone": "(65) 3616-3500",
@@ -755,16 +435,6 @@
     "endereco": "Av. Fernando Correia",
     "telefone": "(65) 3616-3500",
     "pix": "andrefs.c@yahoo.com",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Marcelo"
-  },
-  {
-    "local": "HOTEL NACIONAL INN",
-    "nome": "Ector",
-    "endereco": "Av. Fernando Correia",
-    "telefone": "(65) 3616-3500",
-    "pix": "067.987.441-09",
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
@@ -828,16 +498,6 @@
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "João"
-  },
-  {
-    "local": "HOTEL NOVO LAR",
-    "nome": "Adiel",
-    "endereco": "Alvorada",
-    "telefone": "(65) 98111-7885",
-    "pix": "",
-    "picpay": "https://picpay.me/adiel.pereira.cezar",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Felipe"
   },
   {
     "local": "HOTEL NOVO LAR",
@@ -910,16 +570,6 @@
     "motoristaResponsavelConvenio": "Felipe"
   }, 
   {
-    "local": "HOTEL TAIAMÃ",
-    "nome": "Maryane",
-    "endereco": "Av. Rubens de Mendonça",
-    "telefone": "(65) 99353-8520",
-    "pix": "048.886.151-95",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "João"
-  }, 
-  {
     "local": "HOTEL VENEZA",
     "nome": "Ana Beatriz",
     "endereco": "Av. Coronel Escolastico",
@@ -960,16 +610,6 @@
     "motoristaResponsavelConvenio": "Marcelo"
   },
   {
-    "local": "HOTEL YPE",
-    "nome": "Lucilene",
-    "endereco": "Alvorada",
-    "telefone": "(65) 98158-7218",
-    "pix": "990.160.791-49",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
     "local": "INSS COXIPO",
     "nome": "Mario",
     "endereco": "Jd. Das Palmeiras",
@@ -978,16 +618,6 @@
     "picpay": "https://picpay.me/mario.fabio5",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
-  },
-  {
-    "local": "INSTITULO LIONS DA VISAO",
-    "nome": "Lupercio",
-    "endereco": "Bau",
-    "telefone": "(65) 99350-2077",
-    "pix": "",
-    "picpay": "https://picpay.me/dayane.cristine.meira",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Mauro"
   },
   {
     "local": "INSTITULO DE CARDIOLOGIA",
@@ -1060,36 +690,6 @@
     "motoristaResponsavelConvenio": "Fabiano"
   },
   {
-    "local": "PRACA DA SAUDE",
-    "nome": "Joao Paulo",
-    "endereco": "Prainha",
-    "telefone": "(65) 98112-4356",
-    "pix": "008.713.791-71",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Vando"
-  },
-  {
-    "local": "RODOVIÁRIA CENTRAL",
-    "nome": "Igor",
-    "endereco": "Rodoviaria Parque",
-    "telefone": "(65) 98441-5053",
-    "pix": "147.331.134-98",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Fabiano"
-  },
-  {
-    "local": "RODOVIÁRIA COXIPO",
-    "nome": "Aldria",
-    "endereco": "Av. Fernando Correia",
-    "telefone": "(65) 98452-7361",
-    "pix": "",
-    "picpay": "https://picpay.me/aldrialimma",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Marcelo"
-  },
-  {
     "local": "SERRAS HOTEL",
     "nome": "Felipe",
     "endereco": "Av. Miguel Sutil",
@@ -1128,26 +728,6 @@
     "picpay": "https://picpay.me/aline.jesus.rodrigues",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Geovanne"
-  },
-  {
-    "local": "VENDEDORA AMBULANTE",
-    "nome": "Antonio",
-    "endereco": "",
-    "telefone": "(65) 99641-0589",
-    "pix": "65996904732",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Felipe"
-  },
-  {
-    "local": "VENDEDORA AMBULANTE",
-    "nome": "Heloa",
-    "endereco": "Riachuelo Getulio",
-    "telefone": "(65) 99648-0473",
-    "pix": "002.927.811-21",
-    "picpay": "",
-    "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Felipe"
   },
   {
     "local": "VENDEDORA AMBULANTE",
