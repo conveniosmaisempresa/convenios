@@ -20,6 +20,25 @@
     "motoristaResponsavelConvenio": "Lucas"
   },
   {
+    "local": "CAAS",
+    "nome": "Janne",
+    "endereco": "Alvorada",
+    "telefone": "(65) 99613-0430",
+    "pix": "020.332.013-17",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "CAAS",
+    "nome": "Bruno",
+    "endereco": "Alvorada",
+    "telefone": "(65) 99343-3683",
+    "pix": "65993433683",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  {
     "local": "CARTORIO 2º OFICIO",
     "nome": "João",
     "endereco": "Santa Helena",
@@ -190,6 +209,16 @@
     "motoristaResponsavelConvenio": "Marcelo"
   },
   {
+    "local": "HOSPITAL JULIO MULLER",
+    "nome": "Alexandre",
+    "endereco": "Alvorada",
+    "telefone": "(65)99218-3677",
+    "pix": "6599218-3677",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
     "local": "HOSPITAL SANTA HELENA",
     "nome": "Alex",
     "endereco": "Santa Helena",
@@ -318,6 +347,16 @@
     "picpay": "https://picpay.me/rosangela.rosa235",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Mauro"
+  },
+    {
+    "local": "HOTEL GETULIO",
+    "nome": "Juliana",
+    "endereco": "Centro",
+    "telefone": "(15)98832-9815",
+    "pix": "050.637.121-26",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
   },
   {
     "local": "HOTEL LOS ANGELES",
@@ -488,7 +527,27 @@
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
-  },  
+  },
+  {
+    "local": "HOTEL PANORAMA",
+    "nome": "Valcilene",
+    "endereco": "Centro",
+    "telefone": "(65) 99650-3451",
+    "pix": "valcilenecorrea1@gmail.com",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "HOTEL PANORAMA",
+    "nome": "Maxuel",
+    "endereco": "Centro",
+    "telefone": "(65) 99650-3451",
+    "pix": "",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
   {
     "local": "HOTEL SLAVIEIRO",
     "nome": "Adriano",
