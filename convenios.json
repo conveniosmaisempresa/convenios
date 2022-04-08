@@ -120,6 +120,56 @@
     "motoristaResponsavelConvenio": "Mauro"
   },
   {
+    "local": "HMC",
+    "nome": "Marci",
+    "endereco": "Ribeirão do Lipa",
+    "telefone": "(65) 99294-9681",
+    "pix": "021.743.901-24",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "HMC",
+    "nome": "Natiely",
+    "endereco": "Ribeirão do Lipa",
+    "telefone": "(65) 99260-7953",
+    "pix": "65992607953",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "HMC",
+    "nome": "Larissa",
+    "endereco": "Ribeirão do Lipa",
+    "telefone": "(65) 99643-2459",
+    "pix": "062.957.881-81",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "HMC",
+    "nome": "Carlos",
+    "endereco": "Ribeirão do Lipa",
+    "telefone": "(65) 99691-0032",
+    "pix": "021.743.901-24",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "HMC",
+    "nome": "Aniely",
+    "endereco": "Ribeirão do Lipa",
+    "telefone": "(65) 99325-8985",
+    "pix": "65993258985",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
     "local": "HOLIDAY INN HOTEL",
     "nome": "Michell",
     "endereco": "Av. Miguel Sutil",
@@ -350,6 +400,16 @@
     "motoristaResponsavelConvenio": "Fabio"
   },
   {
+    "local": "HOTEL LOS ANGELES",
+    "nome": "Vitor",
+    "endereco": "Alvorada",
+    "telefone": "(65) 99812-3085",
+    "pix": "000.934.113-75",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Fabio"
+  },
+  {
     "local": "HOTEL MATO GROSSO PALACE",
     "nome": "Lilian",
     "endereco": "Centro",
@@ -375,7 +435,7 @@
     "endereco": "Alvorada",
     "telefone": "(65) 99203-5617",
     "pix": "",
-    "picpay": "https://picpay.me/maisempresa1",
+    "picpay": "https://picpay.me/luiz.augusto.siqueira1",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Fabio"
   },
@@ -431,10 +491,10 @@
   },
   {
     "local": "HOTEL NACIONAL INN",
-    "nome": "Andre",
+    "nome": "Alexandre",
     "endereco": "Av. Fernando Correia",
     "telefone": "(65) 3616-3500",
-    "pix": "andrefs.c@yahoo.com",
+    "pix": "65999226633",
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
@@ -645,6 +705,26 @@
     "endereco": "Av. Coronel Escolastico",
     "telefone": "(65) 98175-1685",
     "pix": "65992571935",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "HOTEL VENEZA",
+    "nome": "Karoline",
+    "endereco": "Av. Coronel Escolastico",
+    "telefone": "(65) 98175-1685",
+    "pix": "07435237175",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "HOTEL VENEZA",
+    "nome": "Rhuan",
+    "endereco": "Av. Coronel Escolastico",
+    "telefone": "(65) 98175-1685",
+    "pix": "029.222.321-82",
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
