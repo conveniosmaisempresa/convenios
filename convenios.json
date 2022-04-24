@@ -170,6 +170,36 @@
     "motoristaResponsavelConvenio": "Marcelo"
   },
   {
+    "local": "HMC",
+    "nome": "Juliana",
+    "endereco": "Ribeirão do Lipa",
+    "telefone": "(65) 99280-9272",
+    "pix": "933.641.051-20",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+ {
+    "local": "HMC",
+    "nome": "Eliana",
+    "endereco": "Ribeirão do Lipa",
+    "telefone": "(65) 99941-3379",
+    "pix": "65992448778",
+    "picpay": "https://picpay.me/maisempresa1",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "HMC",
+    "nome": "Cecilia",
+    "endereco": "Ribeirão do Lipa",
+    "telefone": "(65) 99215-7705",
+    "pix": "65992448778",
+    "picpay": "https://picpay.me/maisempresa1",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
     "local": "HOLIDAY INN HOTEL",
     "nome": "Michell",
     "endereco": "Av. Miguel Sutil",
@@ -359,6 +389,16 @@
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
   },
+      {
+    "local": "HOTEL GETULIO",
+    "nome": "Alif",
+    "endereco": "Centro",
+    "telefone": "(65)98455-3718",
+    "pix": "65984553718",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
   {
     "local": "HOTEL INTERCITY",
     "nome": "Bruno",
@@ -407,7 +447,17 @@
     "pix": "000.934.113-75",
     "picpay": "",
     "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Fabio"
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+    {
+    "local": "HOTEL LOS ANGELES",
+    "nome": "Janaina",
+    "endereco": "Alvorada",
+    "telefone": "(65) 98142-1376",
+    "pix": "65981421376",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
   },
   {
     "local": "HOTEL MATO GROSSO PALACE",
@@ -418,6 +468,16 @@
     "picpay": "",
     "incentivo": "R$ 3,00 / R$ 5,00",
     "motoristaResponsavelConvenio": "Felipe"
+  },
+  {
+    "local": "HOTEL MATO GROSSO PALACE",
+    "nome": "Claudinei",
+    "endereco": "Centro",
+    "telefone": "(65) 99207-3648",
+    "pix": "65992073648",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Edinei"
   },
   {
     "local": "HOTEL NACIONAL",
@@ -564,7 +624,7 @@
     "nome": "Maxuel",
     "endereco": "Centro",
     "telefone": "(65) 99650-3451",
-    "pix": "",
+    "pix": "65984428954",
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
