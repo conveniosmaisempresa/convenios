@@ -199,6 +199,16 @@
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
   },
+   {
+    "local": "HMC",
+    "nome": "Tatiane",
+    "endereco": "Ribeirão do Lipa",
+    "telefone": "(65) 98154-5419",
+    "pix": "65992448778",
+    "picpay": "https://picpay.me/maisempresa1",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
   {
     "local": "HOLIDAY INN HOTEL",
     "nome": "Michell",
@@ -625,6 +635,16 @@
     "endereco": "Centro",
     "telefone": "(65) 99650-3451",
     "pix": "65984428954",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+    {
+    "local": "HOTEL PANORAMA",
+    "nome": "Mauricio",
+    "endereco": "Centro",
+    "telefone": "(65) 99650-3451",
+    "pix": "65992002129",
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
