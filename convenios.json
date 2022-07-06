@@ -279,22 +279,22 @@
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
   },
-  {
-    "local": "HOSPITAL GERAL (ITC)",
-    "nome": "Cristiano",
-    "endereco": "Av. Treze de Junho",
-    "telefone": "(65) 99693-7753",
-    "pix": "",
+ {
+    "local": "HOSPITAL JULIO MULLER",
+    "nome": "Alexandre",
+    "endereco": "Alvorada",
+    "telefone": "(65)99218-3677",
+    "pix": "6599218-3677",
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
   },
   {
     "local": "HOSPITAL JULIO MULLER",
-    "nome": "Alexandre",
+    "nome": "Italo",
     "endereco": "Alvorada",
-    "telefone": "(65)99218-3677",
-    "pix": "6599218-3677",
+    "telefone": "(65) 99303-6845",
+    "pix": "057.197.131-82",
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
@@ -388,6 +388,46 @@
     "picpay": "",
     "incentivo": "R$ 3,00 / R$ 5,00",
     "motoristaResponsavelConvenio": "Edinei"
+  },
+  {
+    "local": "HOTEL D'LUCA",
+    "nome": "Lais Freitas",
+    "endereco": "Araes",
+    "telefone": "(65) 99805-8329",
+    "pix": "65992785232",
+    "picpay": "",
+    "incentivo": "3,00",
+    "motoristaResponsavelConvenio": " Marcelo"
+  },
+  {
+    "local": "HOTEL D'LUCA",
+    "nome": "Lais Soares",
+    "endereco": "Araes",
+    "telefone": "(65) 99805-8329",
+    "pix": "27999066066",
+    "picpay": "",
+    "incentivo": "3,00",
+    "motoristaResponsavelConvenio": " Marcelo"
+  },
+  {
+    "local": "HOTEL D'LUCA",
+    "nome": "Yara",
+    "endereco": "Araes",
+    "telefone": "(65) 99805-8329",
+    "pix": "beatrysyara@gmail.com",
+    "picpay": "",
+    "incentivo": "3,00",
+    "motoristaResponsavelConvenio": " Marcelo"
+  },
+   {
+    "local": "HOTEL D'LUCA",
+    "nome": "Tainara",
+    "endereco": "Araes",
+    "telefone": "(65) 99805-8329",
+    "pix": "65984181313",
+    "picpay": "",
+    "incentivo": "3,00",
+    "motoristaResponsavelConvenio": " Marcelo"
   },
   {
     "local": "HOTEL ESTILO",
@@ -860,14 +900,14 @@
     "motoristaResponsavelConvenio": "Marcelo"
   },
   {
-    "local": "INSTITULO DE CARDIOLOGIA",
-    "nome": "Elange",
-    "endereco": "Jardim Cuiaba",
-    "telefone": "(65) 99232-7994",
-    "pix": "",
-    "picpay": "https://picpay.me/cavalcante.cavalcante80",
+    "local": "ITC",
+    "nome": "Cristiano",
+    "endereco": "Centro",
+    "telefone": "(65) 99693-7753",
+    "pix": "65996937753",
+    "picpay": "",
     "incentivo": "R$ 3,00",
-    "motoristaResponsavelConvenio": "Porfirio"
+    "motoristaResponsavelConvenio": "Aron"
   },
    {
     "local": "JP STEAK HOUSE",
@@ -890,11 +930,21 @@
     "motoristaResponsavelConvenio": "Marcelo"
   },
   {
-    "local": "PRACA DA SAUDE",
-    "nome": "Joao",
+    "local": "PRONTO SOCORRO",
+    "nome": "Albino",
     "endereco": "Centro",
-    "telefone": "(65) 98112-4356",
-    "pix": "65981124356",
+    "telefone": "(65) 99969-0640",
+    "pix": "706.502.941-73",
+    "picpay": "",
+    "incentivo": "R$ 3,00",
+    "motoristaResponsavelConvenio": "Marcelo"
+  },
+  {
+    "local": "PROPEDIA",
+    "nome": "Lohayne",
+    "endereco": "Centro",
+    "telefone": "(65) 99312-6224",
+    "pix": "65993126224",
     "picpay": "",
     "incentivo": "R$ 3,00",
     "motoristaResponsavelConvenio": "Marcelo"
